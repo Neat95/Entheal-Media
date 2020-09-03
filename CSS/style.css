@@ -393,6 +393,8 @@ header{
     text-align: center;
     margin: 50px auto 120px !important;
     color: #fff;
+    padding-bottom: 25px;
+
 }
 
 .main{
@@ -521,7 +523,7 @@ transform: rotate(360deg);
     margin-bottom:47px;
     margin-top: 12px;
     padding-top: 3px;
-    color: #000;
+    color: #fff;
     text-align: center;
     font-family: merienda;
     border: 1px solid #00ffcc;
@@ -805,7 +807,7 @@ letter-spacing: 2px;
 height: 33px;
 text-align: center;
 cursor: pointer;
-margin-left: 3%;
+margin-left:calc(50% + 10px);
 border: 2px solid rgb(190,190,190);
 color:rgb(190,190,190)
 
